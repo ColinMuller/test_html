@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<nav>
+    <ol>
+    <li><a href="#weekRep">1. Weekly Reports</a></li>
+    <li><a href="#week1">1.1.Weak 1</a></li>
+	<li><a href="#summaries">2.Summaries</a></li>
+    <li><a href="#orgs">3.Organizations Dealing with Online Hate</a></li>
+    <li><a href="#typ">4.Typologizing Online Hate</a></li>
+
+  </ol>
+</nav>
+
+
+<h1 id="weekRep">Weekly Reports</h1>
+
+<h2 id="week1">Weak 1 </h2>
+
+<h2>Week 1</h2>
+<p>My first report text here.</p>
+<h2>Week 2</h2>
+<p>My second report text here.</p>
+
+
+<h1 id="summaries">Summaries</h1>
+<h3>Article Info</h3>
+<p>put summary here</p>
+
+<h3>Article Info</h3>
+<p>put summary here</p>
+
+<h3>Article Info</h3>
+<p>put summary here</p>
+
+<h3>Article Info</h3>
+<p>put summary here</p>
+
+<h1 id="orgs">Organizations Dealing with Online Hate</h1>
+
+<h2> classifying orgs </h2>
+<h3>Name of Org</h3>
+<p>description</p>
+
+<h3>Name of Org</h3>
+<p>description</p>
+
+<h3>Name of Org</h3>
+<p>description</p>
+
+<h3>Name of Org</h3>
+<p>description</p>
+
+<h1 id="typ">Typologizing Online Hate</h1>
+
+
+</body>
+</html>
